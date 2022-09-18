@@ -30,3 +30,4 @@ toml==0.10.2
 typing_extensions==4.1.1
 uvicorn==0.17.5
 yarl==1.7.2
+passlib[bcrypt]
